@@ -1,6 +1,6 @@
-📊 Excel Sales Dashboard
+# 📊 Excel Sales Dashboard
 
-Overview
+## 📌 Overview
 
 An interactive sales dashboard built in Microsoft Excel to analyze revenue, profit, transactions, customer behavior, product performance, and regional trends.
 
@@ -8,21 +8,29 @@ The dashboard uses Pivot Tables, Pivot Charts, Slicers, KPI Cards, Form Controls
 
 ---
 
-Dataset
+## 📂 Dataset
 
-The source dataset used for building the dashboard is available in the "dataset" folder.
+The source dataset used for building the dashboard is available in the [dataset](./dataset) folder.
 
 ---
 
-Dashboard Preview
+## 🖼️ Dashboard Preview
+
+### 📈 Time Analysis Dashboard
 
 ![Time Analysis Dashboard](images/time-analysis-dashboard.jpg)
 
+Provides year-wise and month-wise analysis of revenue, profit, and transactions, helping identify sales trends and overall business performance over time.
+
+### 📊 Product & Customer Analysis Dashboard
+
 ![Product & Customer Dashboard](images/product-customer-dashboard.jpg)
+
+Offers insights into product performance, customer behavior, and regional sales distribution, enabling data-driven business decisions.
 
 ---
 
-Key Features
+## ✨ Key Features
 
 - Dynamic KPI Cards
 - Year-over-Year (YOY) Analysis
@@ -38,7 +46,7 @@ Key Features
 
 ---
 
-Skills Demonstrated
+## 🛠️ Skills Demonstrated
 
 - Dashboard Design
 - Data Visualization
@@ -50,7 +58,7 @@ Skills Demonstrated
 
 ---
 
-Excel Features Used
+## 📋 Excel Features Used
 
 - Pivot Tables
 - Pivot Charts
@@ -63,7 +71,7 @@ Excel Features Used
 
 ---
 
-Tools Used
+## 💻 Tools Used
 
 - Microsoft Excel
 - VBA (Macro Recording)
