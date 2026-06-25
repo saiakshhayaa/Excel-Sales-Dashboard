@@ -16,9 +16,9 @@ The source dataset used for building the dashboard is available in the "dataset"
 
 Dashboard Preview
 
-![Time Analysis Dashboard](images/time-analysis-dashboard.jpeg)
+![Time Analysis Dashboard](images/time-analysis-dashboard.jpg)
 
-![Product & Customer Dashboard](images/product-customer-dashboard.jpeg)
+![Product & Customer Dashboard](images/product-customer-dashboard.jpg)
 
 ---
 
